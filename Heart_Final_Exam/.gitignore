@@ -1,0 +1,7 @@
+# IDE
+.idea
+
+# Data / large files
+*.zip
+*.data
+*.sav
